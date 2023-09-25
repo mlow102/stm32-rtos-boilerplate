@@ -1,7 +1,7 @@
 # STM32 FreeRTOS Boilerplate
 Boilerplate for programming STM32 boards in C++, using cmake
 
-## Enviroment Setup Instructions for STM32:
+## Enviroment Setup Instructions:
 - Use WSL or Linux, Ubuntu 22.04 works well
 - Install clangd, cmake, cmake-tools extensions in VSCode
 - On Ubuntu, `apt-get install gcc-arm-none-eabi` to install compiler
